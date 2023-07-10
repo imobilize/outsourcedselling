@@ -5,8 +5,8 @@ draft: false
 language: en
 featuredImage: "images/4.png"
 description: One of the most significant advantages of outsourced sales is the access to specialized expertise. When working with an external sales team, you can tap into their years of experience and industry knowledge. These professionals are well-versed in the art of selling and have a deep understanding of market dynamics. By leveraging their expertise, you can benefit from proven strategies and techniques that have delivered results time and time again.
-author: Daniele 
-authorImage: "images/global/avatar.jpg"
+author: Daniele Tulino
+authorImage: "images/global/danielle.jpg"
 categories: Productivity
 tags: ["Productivity", "Sales Pipeline", "Outsourcing"]
 ---
