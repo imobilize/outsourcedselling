@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<main class="mb-16">
+  <div class="mx-auto max-w-screen-xl px-6 pt-8 md:pt-14 lg:pt-20">
+    <h1 class="pb-4 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-medium text-gray-900 tracking-snug leading-tight sm:leading-tight md:leading-tight lg:leading-tight md:text-center">
+      Here's a list of companies that we've helped to grow
+    </h1>
+    <p class="pb-6 text-gray-600 text-lg md:text-2xl md:tracking-tight md:text-center leading-normal md:leading-normal">
+      But don’t just take our word for it. We’ll let the results do the talking.
+    </p>
+    <div class="pt-8 flex justify-center text-primary">
+      <svg width="204" height="14" xmlns="http://www.w3.org/2000/svg">
+        <!-- ... SVG code ... -->
+      </svg>
+    </div>
+  </div>
+
+  <section class="py-16 bg-gray-100">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-semibold text-gray-800">Case Studies</h2>
+      <div class="w-1/2 mt-12">
+          {{ range where .Site.RegularPages "Type" "case-study" }}
+          <a href="{{ .RelPermalink }}" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            {{ with .Params }}
+            {{ $image_path := "case-study/saturn-spraying-systems/images/saturn-2.png" }}
+            <img src="{{ $.Site.BaseURL }}{{ $image_path }}" alt="Image" class="object-cover w-1/2 rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{ .title }}</h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ .description }}</p>
+                <p class="mb-3 font-normal font-heading font-medium text-amber-600 hover:text-amber-500">Read More</p>
+            </div>
+            {{ end }}
+        </a>
+        
+          {{ end }}
+      </div>
+    </div>
+  </section>
+</main>
+
+{{ end }}
