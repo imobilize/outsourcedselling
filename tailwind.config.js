@@ -5,7 +5,10 @@ module.exports = {
   content: ['./layouts/**/*.html', './content/**/*.md'],
   darkMode: 'class',
   theme: {
-
+    screens: {
+      'xs': '475px',
+      ...defaultTheme.screens,
+    },
     fontFamily: {
       // 'sans': ['ui-sans-serif', 'Poppins'],
       // 'serif': ['ui-serif', 'Poppins'],
