@@ -2384,8 +2384,16 @@ video {
   height: 1px;
 }
 
+.h-\[calc\(100\%-1rem\)\] {
+  height: calc(100% - 1rem);
+}
+
 .max-h-\[350px\] {
   max-height: 350px;
+}
+
+.max-h-full {
+  max-height: 100%;
 }
 
 .w-1\/2 {
@@ -2812,6 +2820,10 @@ video {
   overflow: hidden;
 }
 
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
 .overflow-x-hidden {
   overflow-x: hidden;
 }
@@ -3113,6 +3125,10 @@ video {
 
 .bg-opacity-50 {
   --tw-bg-opacity: 0.5;
+}
+
+.bg-opacity-70 {
+  --tw-bg-opacity: 0.7;
 }
 
 .bg-gradient-to-b {
@@ -4738,6 +4754,16 @@ EmojiSymbols;
   color: rgb(228 228 231 / var(--tw-text-opacity));
 }
 
+.dark .dark\:text-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
+}
+
+.dark .dark\:text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+
 .dark .dark\:shadow-gray-800 {
   --tw-shadow-color: #1f2937;
   --tw-shadow: var(--tw-shadow-colored);
@@ -4995,6 +5021,13 @@ EmojiSymbols;
 
   .md\:sticky {
     position: sticky;
+  }
+
+  .md\:inset-0 {
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
   }
 
   .md\:bottom-8 {
