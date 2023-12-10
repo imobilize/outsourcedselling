@@ -4,7 +4,7 @@ date: 2023-11-18T11:10:36+08:00
 draft: false
 sitemapExclude: true
 language: en
-description: Training sent
+description: Brick and mortar training sent
 ---
 
 ## Your Training Is On It's Way!
