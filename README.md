@@ -1,4 +1,4 @@
-# Outsourced Selling
+# Outsourced Sales
 Outsourced sales is the website of [outsourcedsales.com](https://outsourcedsales.com)
 
 Outsourced Sales offers a solution for manufacturing and engineering companies, handling the marketing and selling of products and services. Their mission is to relieve businesses of the challenges associated with sales and marketing, allowing them to focus on core operations. Leveraging their own experience in manufacturing and engineering, they've optimized and automated the sales process, offering a results-driven approach to put sales on autopilot.

@@ -5,7 +5,10 @@ module.exports = {
   content: ['./layouts/**/*.html', './content/**/*.md'],
   darkMode: 'class',
   theme: {
-
+    screens: {
+      'xs': '475px',
+      ...defaultTheme.screens,
+    },
     fontFamily: {
       // 'sans': ['ui-sans-serif', 'Poppins'],
       // 'serif': ['ui-serif', 'Poppins'],
@@ -17,10 +20,13 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: 'colors.indigo',
-        secondary: 'colors.yellow',
-        neutral: 'colors.gray',
+        primary: '#F59E0B',
+        secondary: '#0EA5E9',
+        neutral: '#FEF3C7',
+        dark: '#1E293B',
+        darksecondary: '#FFFFFF',
       },
+
       lineHeight: {
         'extra-loose': '2.5',
         '12': '3rem',
