@@ -1,15 +1,15 @@
 ---
-title: "The Power of Digital Transformation
-"
+title: "The Power of Digital Transformation"
 date: 2023-05-11T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/title-image.jpg"
-description: In today's rapidly evolving business landscape, small and medium-sized enterprises (SMEs) face numerous challenges in achieving sustainable growth. This is particularly true for SMEs operating in the manufacturing and engineering industries, where intense competition, market complexities, and technological advancements demand a strategic approach to stay ahead. 
+description: Discover how digital transformation empowers small and medium-sized enterprises (SMEs) in the manufacturing and engineering industries to achieve sustainable growth amidst market complexities and technological advancements.
 authorImage: "images/global/debbie-author.jpg"
 categories: Productivity
-tags: ["Productivity", "Sales Pipeline", "Outsourcing"]
+tags: ["Digital Transformation", "SMEs", "Manufacturing Industry", "Engineering Industry", "Strategic Growth"]
 ---
+
 
 ## Unlocking Growth Opportunities for Manufacturing and Engineering SMEs
 
