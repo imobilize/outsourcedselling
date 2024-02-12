@@ -1,15 +1,15 @@
 ---
-title: "What is a brand?"
+title: "What is a Brand?"
 date: 2023-02-23T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/branding-featured.jpg"
-description: Creating a strong brand can make your company stand out from the crowd. In this competitive market, learn how to sell more by having a great brand
+description: Creating a strong brand can make your company stand out from the crowd. In this competitive market, learn how to sell more by having a great brand.
 author: Andre Barrett
 authorImage: "images/global/andre-author.jpg"
-categories: Marketing
-tags: ["Branding", "Marketing", "Branding Book"]
-keywords: "Brand, Branding, Branding Book, Marketing, Branding For Profit, Book On Branding"
+categories: ["Branding", "Business Development"]
+tags: ["Branding Book", "Brand Strategy"]
+keywords: "Brand, Branding For Profit, Book based On Branding"
 ---
 
 ## So, what exactly is a brand?

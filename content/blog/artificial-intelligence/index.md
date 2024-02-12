@@ -1,14 +1,14 @@
 ---
-title: "Is Artificial Intelligence the Enemy to Humanity"
+title: "Is Artificial Intelligence the Enemy to Humanity?"
 date: 2023-05-26T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/1.png"
-description: As technology continues to advance, automation and artificial intelligence (AI) are revolutionizing the way we approach sales, providing unprecedented opportunities for growth and efficiency.
+description: Explore the impact of Artificial Intelligence (AI) on sales and marketing. Learn how AI enhances customer experiences and debunk common myths about its role in the industry.
 author: Deborah Mokhosi-Madalane
 authorImage: "images/global/debbie-author.jpg"
-categories: Sales
-tags: [ "Artificial Intelligence(AI)", "Technology"]
+categories: ["Sales", "Artificial Intelligence", "Technology"]
+tags: ["Artificial Intelligence", "Sales Automation", "Technology in Sales", "AI Myths", "Customer Experience"]
 ---
 
 ## AI and Humanity
