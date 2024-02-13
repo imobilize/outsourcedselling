@@ -1,14 +1,14 @@
 ---
-title: "Using BANT to increase sales"
+title: "Using BANT Criteria to Boost Your Sales Pipeline"
 date: 2023-01-10T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/bant-featured.jpg"
-description: One widely recognized framework that has proven successful for many sales organizations is known as the BANT criteria.
+description: Discover how implementing the BANT criteria can revolutionize your sales pipeline and drive revenue growth. Learn essential strategies for effective BANT implementation in your sales process.
 author: Andre Barrett
 authorImage: "images/global/andre-author.jpg"
-categories: Sales
-tags: ["Sales Strategies", "Sales Pipeline", "Sales Training"]
+categories: Sales Strategies
+tags: ["BANT Criteria", "Sales Pipeline", "Lead Qualification", "Sales Process Optimization"]
 ---
 
 ## Why BANT is needed in your sales pipeline
