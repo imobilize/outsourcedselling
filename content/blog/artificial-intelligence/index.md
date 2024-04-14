@@ -1,6 +1,6 @@
 ---
 title: "Is Artificial Intelligence the Enemy to Humanity?"
-date: 2023-05-26T11:10:36+08:00
+date: 2023-11-26T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/1.png"

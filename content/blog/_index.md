@@ -2,8 +2,9 @@
 title: "Blog"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: "Blog"
+description: "Blog for Outsourced Sales Solutions"
 author: "Andre Barrett"
-images: ["images/blog/branding-for-profit-book.jpg"]
-keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
+image: "images/outsourced-sales-cover.png"
+images: ["images/outsourced-sales-cover.png"]
+keywords: "Outsourced Sales, Outsourcing, Marketing, Sales, Branding, Lead Generation"
 ---
