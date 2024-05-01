@@ -25,6 +25,10 @@ module.exports = {
         neutral: '#FEF3C7',
         dark: '#1E293B',
         darksecondary: '#FFFFFF',
+      }
+      ,
+      height: {
+        '128': '32rem',
       },
 
       lineHeight: {
