@@ -65,7 +65,7 @@
 
                 <div class="col-span-4 flex justify-center relative">
                     <!-- Second column with 60% width -->
-                    {{ with resources.Get "images/web-dev/12.png" }}
+                    {{ with resources.Get "images/web-dev/new12.png" }}
                     {{ $together := .RelPermalink }}
                     <img src="{{$together}}" class="w-auto h-auto md:h-96 absolute top-12 rounded-2xl" alt="asdasd">
                     {{ end }}
@@ -75,13 +75,13 @@
                     <!-- Third column with 20% width -->
                     <div class="grid grid-cols-1 gap-4">
                         <div class="col-span-1 ">
-                            {{ with resources.Get "images/web-dev/13.png" }}
+                            {{ with resources.Get "images/web-dev/exc.png" }}
                             {{ $together := .RelPermalink }}
-                            <img src="{{$together}}" class="w-full h-auto rounded-2xl top-12 right-1/2" alt="asdasd">
+                            <img src="{{$together}}" class="w-full h-auto rounded-xl skew-y-3 top-12 right-1/2" alt="asdasd">
                             {{ end }}
                         </div>
                         <div class="col-span-1">
-                            {{ with resources.Get "images/web-dev/14.png" }}
+                            {{ with resources.Get "images/web-dev/new22.png" }}
                             {{ $together := .RelPermalink }}
                             <img src="{{$together}}" class="w-full h-auto rounded-2xl absolute top-50 right-20"
                                 alt="asdasd">
@@ -123,12 +123,12 @@
         <div class="flex flex-col md:flex-row items-center justify-center text-left text-lg lg:flex-grow lg:w-full">
             <div class="w-full lg:max-w-lg lg:w-1/2 rounded-xl">
                 <div class="w-full">
-                    {{ with resources.Get "images/web-dev/first.png" }}
+                    {{ with resources.Get "images/web-dev/website.png" }}
                     {{ $small := (.Resize "550x webp q100").RelPermalink }}
                     {{ $medium := (.Resize "900x webp q100").RelPermalink }}
                     {{ $large := (.Resize "1500x webp q100").RelPermalink }}
                     {{ $together := (.Resize "1500x webp q100").RelPermalink }}
-                    <img class="object-cover object-center mx-auto" alt="hero" src="{{$together}}">
+                    <img class="object-cover object-center rounded-2xl shadow shadow-lg mx-auto" alt="hero" src="{{$together}}">
                     {{ end }}
                 </div>
             </div>
@@ -332,7 +332,7 @@
             </div>
 
             <!-- Feature 4: Easy-to-use editor -->
-            <div class="p-6">
+            <!-- <div class="p-6">
                 <div class="flex justify-center">
                     <svg class="h-12 rounded" viewBox="0 0 512 512" style="color:#050935"
                         xmlns="http://www.w3.org/2000/svg" class="h-full w-full">
@@ -351,7 +351,7 @@
                 <p class="text-gray-600">Customize anything. Change the layout, add pages, products, blog or news
                     sections to get more traffic.
                 </p>
-            </div>
+            </div> -->
 
             <!-- Feature 5: Unlimited 0% commission sales -->
             <div class="p-6">
