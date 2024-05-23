@@ -25,6 +25,9 @@ module.exports = {
         neutral: '#FEF3C7',
         dark: '#1E293B',
         darksecondary: '#FFFFFF',
+      },
+      rotate: {
+        '17': '17deg',
       }
       ,
       height: {
