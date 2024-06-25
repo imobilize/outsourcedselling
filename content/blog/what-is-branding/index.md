@@ -134,7 +134,7 @@ Is it any clearer now?
 <br />
 
 
-The reality is that even those who have created a successful brand may struggle to define it. They understand the how and the why, the who and the when but determining the what remains elusive. Maybe it’s this mystery that hooked me in the first place and set off the chain of events that led me to write ‘[Branding For Profit](/branding-for-profit-book-introduction).’ The book takes a deep dive into the world of branding. It uncovers the mysteries, follows the breadcrumb trail left by some of the huge players, and offers practical tips and tricks that arm the reader with all the knowledge they need to make their mark on the world.
+The reality is that even those who have created a successful brand may struggle to define it. They understand the how and the why, the who and the when but determining the what remains elusive. Maybe it’s this mystery that hooked me in the first place and set off the chain of events that led me to write ‘Branding For Profit.’ The book takes a deep dive into the world of branding. It uncovers the mysteries, follows the breadcrumb trail left by some of the huge players, and offers practical tips and tricks that arm the reader with all the knowledge they need to make their mark on the world.
 
 How would you define what a brand is? How important do you think investing in building a brand is? Share your comments below!
 
